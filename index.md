@@ -7,7 +7,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>刘艺硕</h1>
+      <h1><strong>刘艺硕</strong></h1>
       <p><b>北京大学</b></p>
       <p><b>学院：药学院</b></p>
       <p><b>地址：北京市海淀区</b></p>
