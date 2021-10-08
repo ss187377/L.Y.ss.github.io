@@ -37,13 +37,11 @@
         <li>喜欢发“呜呜呜”和狗头🐶  开心难过都是“呜呜呜”，自行切换语调</li>
         <li>出门游玩  开心加倍(≧∇≦)/
              顺便放几张出去快乐玩耍的照片!٩(๑^o^๑)⬇️
-  <div>
-       <img src="mmexport1633691202937.jpg"width="50%">
-       <img src="mmexport1633691207164.jpg"width="50%">
-       <img src="mmexport1633691210447.jpg"width="50%">
-       <img src="mmexport1633691213179.jpg"width="50%">
+  <span>
+       <img src="mmexport1633691202937.jpg"width="50%">   <img src="mmexport1633691207164.jpg"width="50%">
+       <img src="mmexport1633691210447.jpg"width="50%">   <img src="mmexport1633691213179.jpg"width="50%">
        <img src="mmexport1633691215965.jpg"width=50%">
-  </div>
+  </span>
        </ul>                                      
 <h2>No.5有待填充...</h2>
  <h1>愿望清单</h1>
