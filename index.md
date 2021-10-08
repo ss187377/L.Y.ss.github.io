@@ -2,7 +2,7 @@
 <html lang="lang="zh-cn">
 <head>
    <meta charset="utf-8"/>
-   <link href="_config.yml"rel="stylesheet"type="text/css"/>
+   <link href="css"rel="stylesheet"type="text/css"/>
  </head>                                                 
 <table border="0">
   <tr>
