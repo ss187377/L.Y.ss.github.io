@@ -9,7 +9,7 @@
       <p><b>邮箱：623618204@qq.com</b></p>
     </td>
      <td width="25%">
-       <img src="/L.Y.ssZJZ.jpg" width="100%">
+       <img src="mmexport1633681425220.jpg" width="100%">
     </td>
   </tr>
 </table>
