@@ -38,8 +38,10 @@
         <li>出门游玩  开心加倍(≧∇≦)/
              顺便放几张出去快乐玩耍的照片!٩(๑^o^๑)⬇️
   <span>
-       <img src="mmexport1633691202937.jpg"width="50%">   <img src="mmexport1633691207164.jpg"width="50%">
-       <img src="mmexport1633691210447.jpg"width="50%">   <img src="mmexport1633691213179.jpg"width="50%">
+       <img src="mmexport1633691202937.jpg"width="50%">   
+       <img src="mmexport1633691207164.jpg"width="50%">
+       <img src="mmexport1633691210447.jpg"width="50%">  
+      <img src="mmexport1633691213179.jpg"width="50%">
        <img src="mmexport1633691215965.jpg"width=50%">
   </span>
        </ul>                                      
