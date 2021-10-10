@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="lang="zh-cn">
-<style type="text/css">
-h1{
- color:blue;
- font-size:500%;                      
-}
-</style>                      
+<head>
+   <title>基于vue+elementui</title>
+    <!--引入样式－－>
+   <link rel="stylesheet" href="te.css" type="text/css">                                                   
 <table border="0">
   <tr>
     <td width="75%">
