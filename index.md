@@ -1,12 +1,5 @@
 <!DOCTYPE html>
-<html lang="lang="zh-cn">
-<head>
-<styletype="text/css">
-h1{
-   color:blue;
-}
- </style>                    
- </head>                                                      
+<html lang="lang="zh-cn">                                                      
 <table border="0">
   <tr>
     <td width="75%">
@@ -22,7 +15,7 @@ h1{
   </tr>
 </table>
 <body>
- <h1>something about my likes</h1>
+ <h1 style="color:blue">something about my likes</h1>
  <h2>No.1.小王子（Le Petit Prince)</h2>
         <img src="mmexport1633686093848.jpg"width="50%"alt="图片暂时无法显示">
     <p>“看东西用眼睛是看不清楚的，要用心去看”《小王子》不仅仅是一部给孩子看的童话，更是哲理与思考的结晶，充满了对人生的感悟，鞭笞世界上的丑恶现象，展现一个绵延不断的经验流中的人生本质</p>
