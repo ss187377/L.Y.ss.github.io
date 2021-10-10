@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="lang="zh-cn">
 <head>
-   <title>基于vue+elementui</title>
-    <!--引入样式－－>
    <link rel="stylesheet" href="te.css" type="text/css">                                                   
 <table border="0">
   <tr>
