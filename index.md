@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="lang="zh-cn">
 <head>
-   <link rel="stylesheet" href="te.css" type="text/css">                                                   
+   <link rel="stylesheet" href="te.css" type="text/css">
+ </head>                                                      
 <table border="0">
   <tr>
     <td width="75%">
