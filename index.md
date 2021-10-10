@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<html lang="lang="zh-cn">                                                      
+<html lang="lang="zh-cn">
+<head>
+<link href="te.css"rel="stylesheet"type="text/css"/>
+</head>     
 <table border="0">
   <tr>
     <td width="75%">
@@ -15,7 +18,7 @@
   </tr>
 </table>
 <body>
- <h1 style="color:blue">something about my likes</h1>
+ <h1>something about my likes</h1>
  <h2>No.1.小王子（Le Petit Prince)</h2>
         <img src="mmexport1633686093848.jpg"width="50%"alt="图片暂时无法显示">
     <p>“看东西用眼睛是看不清楚的，要用心去看”《小王子》不仅仅是一部给孩子看的童话，更是哲理与思考的结晶，充满了对人生的感悟，鞭笞世界上的丑恶现象，展现一个绵延不断的经验流中的人生本质</p>
@@ -39,7 +42,7 @@
        <img src="mmexport1633691210447.jpg"width="50%"alt="即使看不到也要心存美好">  
       <img src="mmexport1633691213179.jpg"width="50%"alt="冲冲冲">
        <img src="mmexport1633691215965.jpg"width=50%"alt="向前！">
-  </>                                     
+  </div>                                     
 <li>No.5有待填充...</li>
 </ul>
  <h1>愿望清单</h1>
