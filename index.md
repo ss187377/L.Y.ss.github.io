@@ -4,10 +4,12 @@
 <style>
  h1{
     color:blue;
-    font-style:italic;
     }
  body{
       background-image:url(https://img0.baidu.com/it/u=3199997293,4261348092&fm=26&fmt=auto);
+    }
+ *{
+   font-weight:bold
     }
    </style>
 </head>     
