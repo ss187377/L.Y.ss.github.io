@@ -1,8 +1,14 @@
 <!DOCTYPE html>
 <html lang="lang="zh-cn">
 <head>
-<meta charset="utf-8"/>                       
-<link rel="stylesheet"href="te.css"type="text/css"/>
+<style>
+ h1{
+    color:blue;
+    font-style:italic;
+    }
+ body{
+      background-image:url(https://img1.baidu.com/it/u=3724372776,2355373354&fm=26&fmt=auto);
+    }
 </head>     
 <table border="0">
   <tr>
