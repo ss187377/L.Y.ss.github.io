@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="lang="zh-cn">
 <head>
-   <link rel="stylesheet"href="te.css"type="text/css"/>
+<styletype="text/css">
+h1{
+    color:blue
+   }
+ </style>                    
  </head>                                                      
 <table border="0">
   <tr>
