@@ -21,7 +21,7 @@
 <body>
  <h1>something about my likes</h1>
  <h2>No.1.小王子（Le Petit Prince)</h2>
-        <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp6.itc.cn%2Fimages03%2F20200516%2Fbf39134597b644daba8f82ef6f39cb6a.jpeg&refer=http%3A%2F%2Fp6.itc.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1636468330&t=255a0bbb8326d86c52c291b724293d1b"width="50%"alt="图片暂时无法显示">
+        <img src="http://p6.itc.cn/images03/20200516/bf39134597b644daba8f82ef6f39cb6a.jpeg"width="50%"alt="图片暂时无法显示">
     <p>“看东西用眼睛是看不清楚的，要用心去看”《小王子》不仅仅是一部给孩子看的童话，更是哲理与思考的结晶，充满了对人生的感悟，鞭笞世界上的丑恶现象，展现一个绵延不断的经验流中的人生本质</p>
     <p>狐狸说：“对我来说，你只是一个小男孩，就像其他成千上万个小男孩一样没有什么两样。我不需要你。你也不需要我。对你来说，我也只是只狐狸，和其他成千上万的狐狸没有什么不同。但是，如果你驯养了我，我们就会彼此需要。对我来说，你就是我的世界独一无二的了；我对你来说，也是你世界的唯一”如果不去遍历世界，我们就不知道什么事我们精神和情感的寄托，但我们一旦遍历了世界，却发现我们再也无法回到那美好的地方去了。当我们开始寻求，我们根本无法知道自己身边的一切是如此可贵。</p>
  <img src="http://upload-images.jianshu.io/upload_images/3136028-36986707c147db51.jpeg?imageMogr2/auto-orient/strip|imageView2/2/format/webp"width="10%"alt="你的小可爱丢失了">                                               
