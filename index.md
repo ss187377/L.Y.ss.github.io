@@ -7,7 +7,7 @@
     font-style:italic;
     }
  body{
-      background-image:url(https://img1.baidu.com/it/u=3724372776,2355373354&fm=26&fmt=auto);
+      background-image:url(https://img0.baidu.com/it/u=3199997293,4261348092&fm=26&fmt=auto);
     }
    </style>
 </head>     
