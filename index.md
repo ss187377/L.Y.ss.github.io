@@ -2,9 +2,7 @@
 <html lang="lang="zh-cn">
 <head>
 <styletype="text/css">
-h1{
-    color:blue
-   }
+h1{color:blue;}
  </style>                    
  </head>                                                      
 <table border="0">
