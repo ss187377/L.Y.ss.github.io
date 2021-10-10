@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="lang="zh-cn">
-<head>
-   <meta charset="utf-8"/>
-   <style type="text/css">
-     @import"te.css";
-  </style>
- </head>                                                 
+<style type="text/css">
+h1{
+ color:blue;
+}
+</style>                      
 <table border="0">
   <tr>
     <td width="75%">
