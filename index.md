@@ -9,6 +9,7 @@
  body{
       background-image:url(https://img1.baidu.com/it/u=3724372776,2355373354&fm=26&fmt=auto);
     }
+   </style>
 </head>     
 <table border="0">
   <tr>
