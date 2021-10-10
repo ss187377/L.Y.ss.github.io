@@ -2,7 +2,9 @@
 <html lang="lang="zh-cn">
 <head>
    <meta charset="utf-8"/>
-   <LINK REL=STYLESHEET HREF="te.css">
+   <style type="text/css">
+     @import"te.css";
+  </style>
  </head>                                                 
 <table border="0">
   <tr>
