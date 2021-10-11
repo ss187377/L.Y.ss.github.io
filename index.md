@@ -6,7 +6,7 @@
     color:saddlebrown;
     }
  body{
-      background-image:url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fcdn.52ppt.com%2Ffile%2F200%2F20024.jpg&refer=http%3A%2F%2Fcdn.52ppt.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1636471946&t=7e634c10cd54d832e6c792dfd1016ac7);
+      background-image:url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201605%2F15%2F20160515204347_3eiPK.thumb.400_0.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1636507629&t=e73548e3697f6755adbef3d6536c630b);
     }
  *{
    font-weight:bolder
