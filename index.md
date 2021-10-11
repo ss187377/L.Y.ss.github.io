@@ -28,9 +28,6 @@
   </tr>
 </table>
 <body>
-<p><img src="https://img2.baidu.com/it/u=109320177,2512994193&fm=26&fmt=auto"width="10%">
-    <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F13922335264%2F641&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1636507138&t=0cd6b4666debd66c3a75782686aae9f7"width="10%"> 
-    <img src="https://img1.baidu.com/it/u=1102526517,3205568219&fm=26&fmt=auto"width="10%></p>
  <h1>something about my likes</h1>
  <h2>No.1.小王子（Le Petit Prince)</h2>
         <img src="http://p6.itc.cn/images03/20200516/bf39134597b644daba8f82ef6f39cb6a.jpeg"width="50%"alt="图片暂时无法显示">
@@ -76,11 +73,9 @@
     <a href="https://baike.baidu.com/item/%E7%A5%9E%E6%8E%A2%E5%A4%8F%E6%B4%9B%E5%85%8B/8466957?fr=aladdin">神探夏洛克</a>
    </li>
   </ol>
- <h1>  ﾍ⌒ヽﾌ
-
-（　・ω・）　谢谢~~
-
-/ ~つと）
+ <h1><img src="https://img2.baidu.com/it/u=109320177,2512994193&fm=26&fmt=auto"width="10%">
+    <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F13922335264%2F641&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1636507138&t=0cd6b4666debd66c3a75782686aae9f7"width="10%"> 
+    <img src="https://img1.baidu.com/it/u=1102526517,3205568219&fm=26&fmt=auto"width="10%>
    </h1>
  </body>
  </html>                                                                                  
