@@ -48,14 +48,7 @@
         <li>喜欢发“呜呜呜”和狗头🐶  开心难过都是“呜呜呜”，自行切换语调</li>
         <li>出门游玩  开心加倍(≧∇≦)/
              顺便放几张出去快乐玩耍的照片!٩(๑^o^๑)⬇️
-  <div>
-       <img src="mmexport1633691202937.jpg"width="50%"alt="你与一张美丽的风景擦肩而过">   
-       <img src="mmexport1633691207164.jpg"width="50%"alt="美好的景色更在前方">
-       <img src="mmexport1633691210447.jpg"width="50%"alt="即使看不到也要心存美好">  
-      <img src="mmexport1633691213179.jpg"width="50%"alt="冲冲冲">
-       <img src="mmexport1633691215965.jpg"width=50%"alt="向前！">
-  </div>                                     
-<li>No.5有待填充...</li>
+ <li>No.5有待填充...</li>
 </ul>
  <h1>愿望清单</h1>
    <p>探寻新的美食店！  冲冲冲！  欢迎推荐</p>
