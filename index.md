@@ -29,8 +29,7 @@
 </table>
 <body>
 <p><img src="https://img2.baidu.com/it/u=109320177,2512994193&fm=26&fmt=auto"width="10%">
-    <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F13922335264%2F641&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1636507138&t=0cd6b4666debd66c3a75782686aae9f7"width="10%">  
-    <img src="https://img2.baidu.com/it/u=1019199533,251959917&fm=26&fmt=auto"widyh="2%">
+    <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F13922335264%2F641&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1636507138&t=0cd6b4666debd66c3a75782686aae9f7"width="10%"> 
     <img src="https://img1.baidu.com/it/u=1102526517,3205568219&fm=26&fmt=auto"width="10%></p>
  <h1>something about my likes</h1>
  <h2>No.1.小王子（Le Petit Prince)</h2>
