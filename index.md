@@ -7,6 +7,15 @@
     }
  body{
       background-image:url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201605%2F15%2F20160515204347_3eiPK.thumb.400_0.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1636507629&t=e73548e3697f6755adbef3d6536c630b);
+         width: 960px;
+        margin-left: auto;
+        margin-right: auto;
+        border-width: 2px;
+        border-style: solid;
+        border-color: olive;
+        border-radius: 5px;
+        padding-left: 20px;
+        padding-right: 20px;              
     }
  *{
    font-weight:bolder
