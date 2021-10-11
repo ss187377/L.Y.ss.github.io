@@ -76,6 +76,10 @@
     <a href="https://baike.baidu.com/item/%E7%A5%9E%E6%8E%A2%E5%A4%8F%E6%B4%9B%E5%85%8B/8466957?fr=aladdin">神探夏洛克</a>
    </li>
   </ol>
+   <h1>自我认知</h1>
+    <p>自信但不傲慢，成熟却充满活力，对事物有敏锐的洞察力和观察力，工作耐心刻苦，责任心强，待人真诚，礼貌，对环境的抗压能力强－－这是我想成为的样子。
+       然而凡事都有但是，真实的我，经常会犯迷糊，丢三落四小能手，还很路痴，经典桥段之在校园里迷路。在熟人面前过于活泼，在陌生人面前又比较社恐，话时而多时而少，心情基本取决于天气，有时会像幼儿园小朋友，据说容易被吓到（我时常不承认这一点），经常语出狂言...
+        这就是我，虽然和理想的样子差了很多，但是我任然喜欢这个奇奇怪怪的自己!</p>
  <h1><img src="https://img2.baidu.com/it/u=109320177,2512994193&fm=26&fmt=auto"width="25%"/>
     <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F13922335264%2F641&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1636507138&t=0cd6b4666debd66c3a75782686aae9f7"width="25%"/> 
     <img src="https://img1.baidu.com/it/u=1102526517,3205568219&fm=26&fmt=auto"width="25%"/>
